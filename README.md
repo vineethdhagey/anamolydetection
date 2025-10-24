@@ -17,4 +17,29 @@ This project implements a modular, MLOps-ready pipeline for predictive maintenan
 ---
 
 ## 📁 Project Structure
+```
+anamolydetection/
+├── data/                      # Raw and processed data
+│   ├── raw/
+│   └── processed/
+├── notebooks/                # EDA, prototyping
+├── src/                      # Core logic
+│   ├── preprocessing.py
+│   ├── anomaly_detection.py
+│   ├── rul_prediction.py
+│   └── utils.py
+├── models/                   # Saved models
+├── scripts/                  # CLI scripts
+│   ├── simulate_stream.py
+│   ├── train_model.py
+│   ├── evaluate_model.py
+│   └── predict_rul.py
+├── dashboards/               # Streamlit/Plotly dashboards
+├── logs/                     # Logging outputs
+├── config/                   # YAML/JSON config files
+├── requirements.txt
+└── README.md
+└── .gitignore             # Ignore virtualenv, data, __pycache__, etc.
+
+```
 
