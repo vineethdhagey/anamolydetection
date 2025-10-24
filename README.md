@@ -42,4 +42,7 @@ anamolydetection/
 └── .gitignore             # Ignore virtualenv, data, __pycache__, etc.
 
 ```
+# Screenshot of Output
+<img width="1888" height="890" alt="Screenshot 2025-10-24 234613" src="https://github.com/user-attachments/assets/57127a79-3e75-42f9-92e6-527280b3dbfa" />
+
 
