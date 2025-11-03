@@ -75,7 +75,7 @@ predictive_maintenance/
 ├── scripts/                 # Executable scripts
 │   ├── __init__.py
 │   ├── train_model.py       # Keras LSTM training pipeline
-│   ├── evaluate_model.py    # Model evaluation on test set
+│   ├── evaluate_model.py    # Model evaluation on validation set
 │   ├── predict_rul.py       # Batch RUL prediction on validation data
 │   └── simulate_stream.py   # Streaming data simulation
 ├── dashboards/
