@@ -142,25 +142,21 @@ python scripts/train_model.py
 # Follow notebooks/note.ipynb for PyTorch training
 ```
 
-### 3. Model Evaluation
-```bash
-# Evaluate trained model on test set
-python scripts/evaluate_model.py
-```
 
-### 4. Batch Prediction
+
+### 3. Batch Prediction
 ```bash
 # Predict RUL on validation data
 python scripts/predict_rul.py
 ```
 
-### 5. Streaming Simulation
+### 4. Streaming Simulation
 ```bash
 # Simulate real-time data streaming
 python scripts/simulate_stream.py
 ```
 
-### 6. Launch Dashboard
+### 5. Launch Dashboard
 ```bash
 # Start interactive dashboard
 streamlit run dashboards/app.py
