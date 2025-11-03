@@ -45,17 +45,15 @@ A comprehensive, MLOps-ready pipeline for predictive maintenance using the NASA 
    - Training loop with validation
    - Keras alternative in training scripts
 
-5. **Evaluation** (`src/evaluation.py`):
-   - Regression metrics computation
-   - Prediction vs. actual plotting
+
 
 ### Workflow Pipeline
 
 ```
-Raw Data → Preprocessing → Feature Engineering → Model Training → Evaluation → Deployment
-     ↓           ↓              ↓                    ↓                             ↓
-  FD002    Scaling/RUL    Sequences/         LSTM/Keras                     Dashboard
-  Load     Calculation   Normalization       Training                       Inference
+Raw Data → Preprocessing → Feature Engineering → Model Training → Deployment
+     ↓           ↓              ↓                    ↓              ↓
+  FD002    Scaling/RUL    Sequences/         LSTM/Keras           Dashboard
+  Load     Calculation   Normalization       Training             Inference
 ```
 
 ## 📁 Project Structure
