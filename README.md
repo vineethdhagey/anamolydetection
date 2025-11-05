@@ -194,8 +194,12 @@ The Streamlit dashboard provides:
 - **Raw Data Viewer**: Expandable data table
 
 ### Dashboard Screenshots
+<img width="1683" height="837" alt="rul prediction" src="https://github.com/user-attachments/assets/47c0aa27-b4b2-42e0-ae70-c4e7f050a849" />
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/57127a79-3e75-42f9-92e6-527280b3dbfa)
+
+
+
+<img width="1520" height="770" alt="rul-2" src="https://github.com/user-attachments/assets/9596e99a-f5d1-4442-9770-9c9ceae305c9" />
 
 *Real-time monitoring interface showing sensor data, anomalies, and RUL predictions*
 
