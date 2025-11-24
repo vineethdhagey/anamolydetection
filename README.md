@@ -76,7 +76,7 @@ Raw Data → Preprocessing → Feature Engineering → Model Training → Deploy
                                                                     ▼
                                                             ┌──────────────────────────┐
                                                             │  Anomaly Detection       │
-                                                            │ Isolation Forest         │
+                                                            │  Isolation Forest        │
                                                             │ Mark/visualize anomalies │
                                                             └──────────┬───────────────┘
                                                                     ▼
@@ -318,11 +318,12 @@ Key packages (see `requirements.txt`):
 
 
 
-
-
 ## 📞 Contact
 
-For questions or collaborations, please open an issue or reach out to the maintainers.
+This project was developed by : **Vineeth Dhagey**,
+
+
+For questions or collaborations, please open an issue or reach out to me.
 
 ---
 
